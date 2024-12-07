@@ -1,2 +1,3 @@
 Name:Ephraim Joshua Lopez
 Exam date: Nov. 7, 2024 
+Favorite Git Command: git init
